@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+p {
+    font-family: "Helvetica", sans-serif;
+}
+#imageH {
+    background-image:url('../Images/pattern01.webp') ;
+    height: 300px;
+    text-align: center;
+    font-size: 120px;
+    font-weight: bold;
+    color: khaki;
+}
+.subH {
+    background-color: mediumspringgreen;
+}
+img {
+    text-align: left;
+}
+h3 {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+p {
+    color: black;
+    text-align: left;
+    display: inline-block;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+.heading {
+    background-color: lightcoral;
+}
+.hd {
+    background-color: skyblue;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
